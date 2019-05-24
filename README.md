@@ -1,3 +1,3 @@
 # final-proj
 End of year project for class
-trial 1. 
+trial 2. 
